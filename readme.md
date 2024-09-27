@@ -14,7 +14,7 @@ Gibt den aktuellen Status des Repository wieder, zeigt Änderungen in der Stagin
 ### git add
 Verschiebt Änderungen in die Staging-Area, wodurch sie vom nächsten commit behandelt werden können.  
 _git add ._ verschiebt alle Änderungen in die Staging-Area.  
-<pre>_git add_ Dateiname</pre> - Verschiebt die benannte Datei.  
+<pre>git add <i>Dateiname</i> // Verschiebt die benannte Datei</pre>  
 
 ### git commit
 Übernimmt alle Änderungen in der Staging-Area und fügt sie dem lokalen Repository hinzu.  
