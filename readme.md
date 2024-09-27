@@ -5,7 +5,7 @@
 
 ### git init
 Initialisiert ein neues Git-Repository.  
-<pre>git init -b <i>Branchname</i> // Benennt die erste Branch (Standart: main)</pre>
+<pre>git init -b <i>Branchname</i> // Benennt die erste Branch (Standart: main)</pre>  
   
 
 ### git status
@@ -20,4 +20,5 @@ git add <i>Dateiname</i> // Verschiebt die benannte Datei</pre>
 
 ### git commit
 Übernimmt alle Änderungen in der Staging-Area und fügt sie dem lokalen Repository hinzu.  
+<pre>git commit -m <i>Kommentar</i> // Fügt den Commit-Kommentar direkt hinzu</pre>
   
