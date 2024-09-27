@@ -18,6 +18,10 @@ Verschiebt Änderungen in die Staging-Area, wodurch sie vom nächsten commit beh
 git add <i>Dateiname</i> // Verschiebt die benannte Datei</pre>   
   
   
+### git checkout <i>Commit-hash</i>
+Setzt zum angegebenen Commit zurück, verlässt dabei die Branch, ohne die neueren Commits zu entfernen.
+  
+  
 ### git commit
 Übernimmt alle Änderungen in der Staging-Area und fügt sie dem lokalen Repository hinzu.  
 <pre>git commit -m <i>Kommentar</i> // Fügt den Commit-Kommentar direkt hinzu</pre>
