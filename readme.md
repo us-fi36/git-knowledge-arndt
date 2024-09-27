@@ -31,3 +31,15 @@ Lädt das angegebene Repository herunter (Zielverzeichnis optional).
 Management der Remote Repositories und deren aktuelle Verknüpfungen.
 <pre>git remote add <i>Name Zieladresse</i> // Erstellt ein verknüpftes Repository am Ziel her (zB. github)  
 git remote rename <i>alterName neuerName</i> // benennt um</pre>
+  
+
+### git rm
+Entfernt Änderungen aus der Staging-Area. Dies ist das Gegenstück zu <i>git add</i> und hat dieselbe Syntax.
+
+
+### git pull
+Fordert den neuesten Stand der aktuellen Branch vom Remote-Repository an.
+  
+  
+## git push
+Aktualisiert das Remote-Repository, indem alle Commits übertragen werden.
