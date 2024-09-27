@@ -41,5 +41,5 @@ Entfernt Änderungen aus der Staging-Area. Dies ist das Gegenstück zu <i>git ad
 Fordert den neuesten Stand der aktuellen Branch vom Remote-Repository an.
   
   
-## git push
+### git push
 Aktualisiert das Remote-Repository, indem alle Commits übertragen werden.
